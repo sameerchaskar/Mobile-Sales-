@@ -3,7 +3,6 @@
 
 I’m excited to share my latest project, "Mobile Sales Data" , where I built a comprehensive dashboard to analyze mobile sales trends, customer behavior, and payment insights.
 
- dataset= <a href="https://github.com/Rajnandini-0804/Mobile_sales_dashboard/blob/main/Mobile%20Sales%20Data.xlsx">view dataset</a>
 
 🔍 Key Highlights of My Power BI Implementation:
 
@@ -23,9 +22,8 @@ I’m excited to share my latest project, "Mobile Sales Data" , where I built a 
 📆 Sales Trends: Peak Sales Day is Saturday (₹115M revenue).
 🗓️ Monthly Trends: March and July recorded the highest sales volumes.
 
-dashboard =< a href="https://github.com/Rajnandini-0804/Mobile_sales_dashboard/blob/main/mobile_sales_dashboard.pbix"> view dashboard</a>
+
 
 🚀 Why This Dashboard Matters?
 
 This dashboard provides actionable insights for businesses to optimize inventory, improve marketing strategies, and enhance customer experiences. With real-time analytics and powerful filters, it’s a valuable dashboard for data-driven decision-making.
- Dashboard preview =<a href="https://github.com/Rajnandini-0804/Mobile_sales_dashboard/blob/main/Screenshot%202025-03-06%20124347.png">Dashboard_preview</a>
